@@ -1,10 +1,8 @@
 # Grocery Ecommerce App
 
-A beautiful flutter UI developed by nonybrighto and designed by [Shoaib Mahmud.](https://www.uplabs.com/posts/grocery-app-kit)
+A beautiful flutter UI developed by nonybrighto and designed by [Manav Patel.](https://www.uplabs.com/posts/grocery-app-kit)
 
-## Overview
 
-<img src="screenshots/header.png" width="100%">
 
 ## Screenshots
 
@@ -20,7 +18,7 @@ Screenshots from the developed flutter application
 
 ## Mentions
 
-The UI is designed by Shoaib Mahmud. located [here](https://www.uplabs.com/posts/grocery-app-kit)
+The UI is designed by Manav Patel. located [here](https://www.uplabs.com/posts/grocery-app-kit)
 
 For help getting started with Flutter, view it's
 [online documentation](https://flutter.dev/docs), which offers tutorials,
